@@ -17,3 +17,32 @@ h3 {
 body {
 	background-color: rgb(145, 165, 130);
 }
+
+.czerwony {
+	color: red;
+}
+
+#git {
+	background-color: yellow;
+}
+
+h3 {
+	color: blue;
+}
+
+a {
+	color: green;
+}
+
+section a {
+	color: blueviolet;
+}
+
+p {
+	color: pink;
+}
+
+.my_article p {
+	background-color: aqua;
+	color: navy;
+}
