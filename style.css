@@ -10,9 +10,7 @@ section {
 	background: rgb(200, 224, 152);
 }
 
-h3 {
-	color: rgb(49, 95, 3);
-}
+
 
 body {
 	background-color: rgb(145, 165, 130);
@@ -26,9 +24,7 @@ body {
 	background-color: yellow;
 }
 
-h3 {
-	color: blue;
-}
+
 
 a {
 	color: green;
@@ -42,7 +38,12 @@ p {
 	color: pink;
 }
 
+.my_article {
+	color: chocolate;
+}
+
 .my_article p {
 	background-color: aqua;
-	color: navy;
+	color: black;
 }
+
