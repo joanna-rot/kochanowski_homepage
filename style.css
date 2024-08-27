@@ -25,11 +25,6 @@ body {
 }
 
 
-
-a {
-	color: green;
-}
-
 section a {
 	color: blueviolet;
 }
@@ -47,3 +42,15 @@ p {
 	color: black;
 }
 
+#life {
+	color: blueviolet;
+}
+
+.header_name {
+	background-color: aquamarine;
+}
+
+.header_name a {
+	color: rgb(232, 39, 39);
+	background-color: cadetblue;
+}
