@@ -11,46 +11,31 @@ section {
 }
 
 
-
 body {
-	background-color: rgb(145, 165, 130);
+	background-color: rgb(236, 184, 230);
 }
 
 .czerwony {
 	color: red;
 }
 
-#git {
-	background-color: yellow;
+#znacznik {
+	background: yellow;
 }
 
+a {
+	color: green;
+}
 
 section a {
-	color: blueviolet;
+	color: orange;
 }
 
 p {
-	color: pink;
+	background-color: bisque;
 }
 
-.my_article {
-	color: chocolate;
-}
-
-.my_article p {
-	background-color: aqua;
-	color: black;
-}
-
-#life {
-	color: blueviolet;
-}
-
-.header_name {
-	background-color: aquamarine;
-}
-
-.header_name a {
-	color: rgb(232, 39, 39);
-	background-color: cadetblue;
+.fiolet p {
+	background: purple;
+	color: azure;
 }
