@@ -1,12 +1,10 @@
-const name = 'Asia';
-const age = 99;
+//alert('siema!!');
 
-console.log('wiadomosc z konsoli');
-console.log(name);
+console.log('siema');
+console.log('ok');
+
+const firstName = 'ASia';
+const age = 35;
+console.log(firstName);
 console.log(age);
-console.log(`Nazywam się ${name} i mam obecnie ${age} lat`);
-
-
-const friend_name = 'Przemek';
-const phone_number = 1051050505;
-console. log(`Witaj przyjacielu! Miło Cię poznać ${friend_name}, czy Twój numer tel to: ${phone_number}?`);
+console.log(`Nazywam się ${firstName} oraz mam ${age} lat!!!!`);
